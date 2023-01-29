@@ -1,5 +1,5 @@
 {
-  "name": "gulp-include-file",
+  "name": "@stomydent/gulp-include-file",
   "version": "0.2.0",
   "description": "Include the contents of a file in javascript as a string.",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "file",
     "include"
   ],
-  "author": "stomydent <31790592+stomydent@users.noreply.github.com>",
+  "author": "stomydent",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stomydent/gulp-include-file/issues"
