@@ -1,0 +1,30 @@
+{
+  "name": "gulp-include-file",
+  "version": "0.2.0",
+  "description": "Include the contents of a file in javascript as a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tba"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulp-plugin",
+    "file",
+    "include"
+  ],
+  "author": "stomydent <31790592+stomydent@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "tba"
+  },
+  "homepage": "tba",
+  "dependencies": {
+    "gulp-util": "latest",
+    "through2": "latest"
+  }
+}
