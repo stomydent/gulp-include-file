@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "tba"
+    "url": "https://github.com/stomydent/gulp-include-file.git"
   },
   "keywords": [
     "gulp",
@@ -20,9 +20,9 @@
   "author": "stomydent <31790592+stomydent@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "tba"
+    "url": "https://github.com/stomydent/gulp-include-file/issues"
   },
-  "homepage": "tba",
+  "homepage": "https://github.com/stomydent/gulp-include-file",
   "dependencies": {
     "gulp-util": "latest",
     "through2": "latest"
