@@ -47,9 +47,9 @@ gulp.task('example', function () {
 
 ## Options
 
-* **regex** _<RegExp>_: The regex to use instead of the default one.
-* **transform** _<Function>_: The transform function to use instead of the default one.
-* **rootDirs** _<Array>_: Define multiple directories for file resolution.
+* **regex** <RegExp>: The regex to use instead of the default one.
+* **transform** <Function>: The transform function to use instead of the default one.
+* **rootDirs** <Array>: Define multiple directories for file resolution.
 
 
 ## License
