@@ -1,6 +1,6 @@
 {
   "name": "@stomydent/gulp-include-file",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Include the contents of a file in javascript as a string.",
   "main": "index.js",
   "scripts": {
